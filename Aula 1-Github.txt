@@ -1,0 +1,41 @@
+1º. Como uma visualização de um diff entre duas versões de um arquivo de ajuda você viu o bug que foi introduzido?
+R:
+	O diff mostra as alterações (o que foi adicionado/ retirado) entre as duas versões, assim sabendo onde foi alterado, facilita descobrir o local onde se encontra o bug;
+
+
+2º. Como ter fácil acesso a todo o histórico de um arquivo pode tornar-se um programador mais eficiente não longo prazo?
+R:
+	Ao se ter acesso ao histórico de alterações, mesmo aparecendo algum bug depois de n alterações do arquivo, ao compara-las achará em qual alteração que o erro se encontra;
+
+
+3º. Na sua opinião, as quais são os prós e contras de escolher quando você faz um commit, como ocorre no Git, vs o salvamento automático de versões, como não Google Docs?
+R:
+	Estando no salvamento manual, temos livre liberdade de escolher o momento do salvamento, entretanto, pode ser que ocorra algum tipo de imprevisto fazendo com que o programador perca o que foi alterado, já no salvamento automático você pode gerar novos programas(commit) com alterações classificadas como irrelevantes
+
+
+4º. Por que você acha que alguns sistemas de controle de versão, como o Git, os enquanto outros, como o Documentos Google, tratam cada arquivo adicional?
+R:
+	Acredito que tem como foco uma maior eficácia em realizar as alterações em seu commit, criando um commit para cada alteração proposta pelo usuário;
+
+
+5º. Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+R:
+	Git log - Mostra todas as informações sobre os commits;
+	Git diff - Ao se analisar dois commits, iremos comparar suas informações do arquivo;
+
+6º. De que modo o controle de versão pode dar mais segurança para fazer alterações que podem danificar algo?
+R:
+	Podendo ver o que foi alterado no arquivo, assim, além de ser mais facil de se encontrar um bug, também não perderemos as versões anteriores;
+
+7º. Agora que você já configurou sua área de trabalho, você quer usar o Git para quê?
+R:
+	Para a área de estudos e projetos;
+
+
+
+
+
+
+
+
+
