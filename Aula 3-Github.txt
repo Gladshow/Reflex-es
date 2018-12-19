@@ -1,0 +1,29 @@
+1º. Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+R:
+	Caso tenha que fazer alguma viagem em que não possa levar meu PC, ou caso esteja compartilhando meu repositório;
+
+2º. Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+R:
+	Pois posso efetuar alterações que seriam salvas sem meu comando, as quais podem conter um bug;
+
+
+3º. Descreva como diferenças entre bifurcações, clones e ramos. Quando você usa e não os outros?
+R:
+	Bifurcações: Cria uma copia dos commits de outro usuário para dentro do seu repositório;
+	Clones: Meio que clona (copia exatamente igual) seus commits para o seu PC;
+	Ramos: Criar uma versão alterada da original, a qual não causa interferência ao commit de origem;
+
+
+4º. Qual é o benefício de ter uma cópia do estado estacionário do local? 
+R:
+	Posso fazer alterações a qualquer momento mesmo não tendo internet, como por exemplo, em uma viagem;
+
+
+5º. Como você colaboraria sem usar Git ou GitHub? O que mais fácil e mais difícil?
+R:
+	Caso seja um trabalho em grupo, teria que achar algum meio de comunicação para passar os programas, observar as alterações efetuadas, o que demandaria muito mais trabalho do que se utilizar o github, pois ele faz com eficácia todas essas funções ditas, e acho que o mais difícil seria observar as alterações nos programas, e o mais fácil seria compartilhar esses programas;
+
+
+6º. Quando você gostaria de fazer alterações em um ramo separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+R:
+	No caso de fazer alguma alteração para testes incertos, os ramos seriam muito eficazes. Sua vantagem é poder alterar o commit sem que ele influencie no commit original;
