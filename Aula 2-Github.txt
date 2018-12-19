@@ -1,0 +1,34 @@
+1º. O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+R:
+	Ao se realizar esse processo, também é criado uma pasta como, por exemplo, gladshow.git (nome da pasta + .git), pasta a qual inicialmente não terá commits, mas poderemos adiciona-los futuramente dentro desta pasta criada;
+
+
+2º. Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+R:
+	Área afim de se adicionar as alterações no programa do usuário, possuindo grande importância pelo fato de poder criar novos commits e modificação dos seus arquivos;
+
+
+3º. Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+R:
+	Eu poderia selecionar manualmente os commits que desejaria fazer alterações, ou criar um novo commit;
+
+
+4º. Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+R:
+	Podemos fazer diversos testes em um projeto, sem medo de alterar/perder o arquivo, pois o original já estará salvo em seu repositório. Os branches me dão a opção de fazer um arquivo idêntico ao commit original;
+
+
+5º. Como os diagramas ajudam a visualizar a estrutura de branches?
+R:
+	Ao se utilizar o diagrama podemos ver para qual local os branches apontam, assim diminuindo a dificuldade de entender o programa após as alterações realizadas pelo usuário, o que também mostra como ocorre o funcionamento dos branches;
+
+
+6º. Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+R:
+	Ao se mesclar dois branches teremos a união das alterações ocorridas em cada um deles, e assim o representamos para mostrar os dois branches que se uniram;
+
+
+7º. Quais são os prós e contras da mesclagem automática do Git vs sempre fazer mesclagens manualmente?
+R:
+	Automático: Não teremos pleno controle do que esta sendo salvo no arquivo, independente de quão importante é essa alteração, entretanto, nunca perderíamos um arquivo por conta de certas causalidades;
+	Manual: Teríamos pleno controle do que esta indo para o arquivo, entretanto, poderíamos perder as alterações pela ocorrência de alguma causalidade
